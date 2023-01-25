@@ -6,8 +6,7 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dkniffin/active_material.git"
